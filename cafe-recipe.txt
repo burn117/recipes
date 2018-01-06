@@ -1,0 +1,13 @@
+Ingredients:
+ - coffee
+ - water
+ - sugar (optinal)
+
+
+Directions:
+ 1. Put the coffee and the water in the coffee machine
+ 
+ 2. Press the start button
+
+ 3. Your coffe is ready when there is no more water. You can add sugar if you want
+
